@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Essays | 1000 Nights</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header>
+        <a href="index.html" class="back-link">← Back to Library</a>
+        <h1>Tonight's Essay</h1>
+    </header>
+
+    <main class="container" style="display: block; max-width: 800px;">
+        <div class="controls">
+            <button id="refresh-essay-btn" class="btn">Discover an Essay</button>
+        </div>
+
+        <div id="essay-display" class="category-card">
+            <div id="essay-content">
+                <p class="loading">Gathering intellect...</p>
+            </div>
+        </div>
+
+        <div class="manual-entry">
+            <h3>Log a Different Essay</h3>
+            <p>Read an essay in a journal or magazine? Log it here:</p>
+            <input type="text" id="manual-essay-title" placeholder="Essay Title & Author">
+            <button id="manual-essay-btn" class="btn">Mark as Read</button>
+        </div>
+    </main>
+
+    <footer>
+        &copy; 2026 | 1000 Nights Challenge
+    </footer>
+
+    <script type="module"src="scripts/essay.js"></script>
+    <script type="module"src="scripts/addItem.js"></script>
+</body>
+</html>

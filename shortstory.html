@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Short Stories | 1000 Nights</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header>
+        <a href="index.html" class="back-link">← Back to Library</a>
+        <h1>Tonight's Story</h1>
+    </header>
+
+    <main class="container" style="display: block; max-width: 800px;">
+        <div class="controls">
+            <button id="refresh-story-btn" class="btn">Pick a New Story</button>
+        </div>
+
+        <div id="story-display" class="category-card">
+            <div id="story-content">
+                <p class="loading">Consulting the masters...</p>
+            </div>
+        </div>
+
+        <div class="manual-entry">
+            <h3>Log a Different Story</h3>
+            <p>Read a story in a book or on another site? Log it here:</p>
+            <input type="text" id="manual-story-title" placeholder="Story Title & Author">
+            <button id="manual-story-btn" class="btn">Mark as Read</button>
+        </div>
+    </main>
+
+    <footer>
+        &copy; 2026 | 1000 Nights Challenge
+    </footer>
+
+    <script src="scripts/shortstory.js"></script>
+</body>
+</html>

@@ -1,0 +1,67 @@
+{
+  "Astronomy": [
+    {"topic": "Our Solar System", "site": "https://www.space.com/astronomy/solar-system"},
+    {"topic": "Space Exploration", "site": "https://www.space.com/space-exploration"},
+    {"topic": "Stars", "site": "https://www.space.com/astronomy/stars"},
+    {"topic": "Black Holes", "site": "https://www.space.com/astronomy/black-holes"},
+    {"topic": "The Dark Universe", "site": "https://www.space.com/astronomy/dark-universe"},
+    {"topic": "Galaxies", "site": "https://www.space.com/astronomy/galaxies"},
+    {"topic": "Eclipses", "site": "https://www.space.com/stargazing/eclipses"},
+    {"topic": "Deep Space", "site": "https://www.space.com/tag/deep-space"}
+  ],
+  "Archaeology": [
+    {"topic": "Ancient Civilizations", "site": "https://www.smithsonianmag.com/tag/ancient-civilizations/"},
+    {"topic": "Artifacts & Treasures", "site": "https://www.heritagedaily.com/category/archaeology-news"},
+    {"topic": "Human Evolution", "site": "https://www.nhm.ac.uk/discover/human-evolution.html"},
+    {"topic": "Dinosaurs", "site": "https://www.nhm.ac.uk/discover/dinosaurs.html"}
+  ],
+  "Zoology": [
+    {"topic": "Animal Behavior", "site": "https://www.sciencedaily.com/news/plants_animals/animal_behavior/"},
+    {"topic": "Marine Biology", "site": "https://www.marinebio.org/creatures/"},
+    {"topic": "Endangered Species", "site": "https://www.worldwildlife.org/species"},
+    {"topic": "Insects & Arachnids", "site": "https://www.entomologytoday.org/"}
+  ],
+  "Philosophy": [
+    {"topic": "Ethics & Morality", "site": "https://plato.stanford.edu/cgi-bin/browser/view.cgi?filter=ethics"},
+    {"topic": "Logic & Reasoning", "site": "https://iep.utm.edu/category/val-know/logic/"},
+    {"topic": "Existentialism", "site": "https://plato.stanford.edu/entries/existentialism/"},
+    {"topic": "Ancient Philosophy", "site": "https://historyofphilosophy.net/all-episodes"}
+  ],
+  "Technology": [
+    {"topic": "Artificial Intelligence", "site": "https://www.scientificamerican.com/artificial-intelligence/"},
+    {"topic": "Computing History", "site": "https://www.computerhistory.org/blogs/"},
+    {"topic": "Biotechnology", "site": "https://www.nature.com/subjects/biotechnology"},
+    {"topic": "Robotics", "site": "https://www.wired.com/tag/robotics/"}
+  ],
+  "Art History": [
+    {"topic": "Renaissance Art", "site": "https://www.metmuseum.org/toah/hd/rena/hd_rena.htm"},
+    {"topic": "Modernism", "site": "https://www.moma.org/learn/moma_learning/themes/what-is-modern-art/"},
+    {"topic": "Sculpture", "site": "https://www.tate.org.uk/art/art-terms/s/sculpture"},
+    {"topic": "Global Art Traditions", "site": "https://www.khanacademy.org/humanities/ap-art-history"}
+  ],
+  "Psychology": [
+    {"topic": "Cognitive Psychology", "site": "https://www.psychologytoday.com/us/basics/cognition"},
+    {"topic": "Social Psychology", "site": "https://www.simplypsychology.org/social-psychology.html"},
+    {"topic": "Dreams & The Subconscious", "site": "https://www.psychologytoday.com/us/basics/dreaming"},
+    {"topic": "Developmental Psychology", "site": "https://www.verywellmind.com/developmental-psychology-4157180"}
+  ],
+  "Biology": [
+    {"topic": "Genetics", "site": "https://www.genome.gov/about-genomics/fact-sheets"},
+    {"topic": "Ecology", "site": "https://www.esa.org/history/ecology-history/"},
+    {"topic": "Microbiology", "site": "https://microbiologysociety.org/why-microbiology-matters.html"},
+    {"topic": "Neuroscience", "site": "https://www.brainfacts.org/the-brain-facts-book"}
+  ],
+  "History": [
+    {"topic": "World War I", "site": "https://www.history.com/topics/world-war-i"},
+    {"topic": "World War II", "site": "https://www.history.com/topics/world-war-ii"},
+    {"topic": "Medieval Period", "site": "https://www.worldhistory.org/index/period/3/medieval/"},
+    {"topic": "Revolutions", "site": "https://www.britannica.com/topic/revolution-politics"},
+    {"topic": "Exploration & Trade", "site": "https://www.rmg.co.uk/stories/topics/exploration-endeavour"}
+  ],
+  "Business & Econ": [
+    {"topic": "Market History", "site": "https://www.investopedia.com/financial-term-dictionary-4769738"},
+    {"topic": "Macroeconomics", "site": "https://www.economist.com/economics-a-to-z"},
+    {"topic": "Innovation & Startups", "site": "https://hbr.org/topic/innovation"},
+    {"topic": "Behavioral Economics", "site": "https://www.behavioraleconomics.com/resources/introduction-behavioral-economics/"}
+  ]
+}

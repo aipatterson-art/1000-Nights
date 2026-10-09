@@ -1,0 +1,15 @@
+[
+    { "title": "The Tell-Tale Heart", "author": "Edgar Allan Poe", "url": "https://poemuseum.org/the-tell-tale-heart/" },
+    { "title": "To Build a Fire", "author": "Jack London", "url": "https://americanenglish.state.gov/files/ae/resource_files/to-build-a-fire.pdf" },
+    { "title": "The Yellow Wallpaper", "author": "Charlotte Perkins Gilman", "url": "https://www.gutenberg.org/files/1952/1952-h/1952-h.htm" },
+    { "title": "The Gift of the Magi", "author": "O. Henry", "url": "https://americanenglish.state.gov/files/ae/resource_files/1-the_gift_of_the_magi_0.pdf" },
+    {"title": "The Hunter's Wife", "author":"Anthony Doerr", "url": "https://www.theatlantic.com/past/docs/issues/2001/05/doerr.htm"},
+    {"title": "Briar Rose", "author": "Brothers Grimm", "url": "https://www.libraryofshortstories.com/onlinereader/briar-rose"},
+    {"title": "How it Happened", "author": "Arthur Conan Doyle", "url": "https://www.libraryofshortstories.com/onlinereader/how-it-happened"},
+    {"title": "The Man Who Could Imitate a Bee", "author": "Richard Connell", "url": "https://www.libraryofshortstories.com/onlinereader/the-man-who-could-imitate-a-bee"},
+    {"title": "A Chameleon", "author": "Anton Chekhov", "url": "https://www.libraryofshortstories.com/onlinereader/a-chameleon"},
+    {"title": "The Pearl of Love", "author": "H. G. Wells", "url": "https://www.libraryofshortstories.com/onlinereader/the-pearl-of-love"},
+    {"title": "The Story-Teller", "author": "Saki", "url" : "https://www.libraryofshortstories.com/onlinereader/the-story-teller"},
+    {"title": "The Nightingale", "author": "Hans Christian Andersen", "url": "https://www.libraryofshortstories.com/onlinereader/the-nightingale"},
+    {"title": "2BR02B", "author": "Kurt Vonnegut", "url": "https://www.libraryofshortstories.com/onlinereader/2br02b"}
+]

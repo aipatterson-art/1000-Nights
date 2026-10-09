@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Archive | 1000 Nights</title>
+    <link rel="stylesheet" href="style.css">
+    <style>
+        .stats-grid {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 1rem;
+            margin-bottom: 2rem;
+            width: 100%;
+        }
+        .stat-card {
+            background: white;
+            padding: 1rem;
+            text-align: center;
+            border-radius: 8px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+        }
+        .stat-number { font-size: 1.5rem; font-weight: bold; color: var(--accent); }
+        
+        table { width: 100%; border-collapse: collapse; background: white; border-radius: 8px; overflow: hidden; }
+        th, td { padding: 12px 15px; text-align: left; border-bottom: 1px solid #eee; }
+        th { background: var(--ink); color: white; text-transform: uppercase; font-size: 0.8rem; }
+        .tag { padding: 2px 8px; border-radius: 4px; font-size: 0.7rem; font-weight: bold; text-transform: uppercase; }
+        .tag-poem { background: #d1ecf1; color: #0c5460; }
+        .tag-story { background: #d4edda; color: #155724; }
+        .tag-essay { background: #fff3cd; color: #856404; }
+    </style>
+</head>
+<body>
+
+    <header>
+        <a href="index.html" class="back-link">← Back to Library</a>
+        <h1>The Great Archive</h1>
+    </header>
+
+    <main class="container" style="display: block; max-width: 900px;">
+        <div class="stats-grid">
+            <div class="stat-card">
+                <div class="stat-number" id="total-days">0</div>
+                <div>Days Completed</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-number" id="total-read">0</div>
+                <div>Total Items Read</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-number" id="current-streak">0</div>
+                <div>Current Streak</div>
+            </div>
+        </div>
+
+        <table>
+            <thead>
+                <tr>
+                    <th>Date</th>
+                    <th>Category</th>
+                    <th>Title</th>
+                </tr>
+            </thead>
+            <tbody id="history-table-body">
+                </tbody>
+        </table>
+    </main>
+
+    <script src="scripts/history.js"></script>
+</body>
+</html>
